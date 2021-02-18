@@ -1,0 +1,6 @@
+name: VARO_Eventlogger
+author: Cuube
+version: 0.2
+api-version: 1.8
+
+main: net.infinitygrid.cuube.VAROEventLogger
